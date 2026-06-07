@@ -17,6 +17,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ```yaml
 name: Adarsh
 role: DevOps | Cloud Infrastructure | Backend Engineer
@@ -39,7 +41,7 @@ looking_to_collaborate_on:
   - Python backend systems
 
 fun_fact: "I automate everything — including my coffee order ☕"
-```
+` ` `
 
 ---
 
@@ -148,3 +150,14 @@ fun_fact: "I automate everything — including my coffee order ☕"
 [![Profile Views](https://komarev.com/ghpvc/?username=adarsh-kr24&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/adarsh-kr24)
 
 </div>
+```
+
+---
+
+**Steps:**
+1. GitHub → `adarsh-kr24/adarsh-kr24` repo → `README.md` edit karo (pencil icon)
+2. **Ctrl+A** → sabkuch delete
+3. Upar ka poora code paste karo
+4. **Commit changes** → done! ✅
+
+> ⚠️ Note: Backtick ` ` ` wala line mein spaces hain — actual file mein woh nahi honge, isliye downloaded file use karna better hai!
